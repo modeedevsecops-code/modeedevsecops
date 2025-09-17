@@ -2,11 +2,15 @@
 
 # Purpose
 Version Control: I want to learn how to use Git and GitHub to manage and track my code efficiently.
+
 Collaboration: Multiple developers can work on the same project without overwriting each other’s work.
+
 Automation: GitHub Actions enable CI/CD pipelines for testing, building, and deploying code automatically.
+
 Documentation: README files, Wikis, and GitHub Pages allow clear documentation of projects.
 
-# What is GitHub
+
+# What is GitHub 
 GitHub is a cloud-based platform for hosting Git repositories.
 
 It allows developers to store, share, and collaborate on code projects. 
